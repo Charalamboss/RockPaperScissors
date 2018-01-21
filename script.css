@@ -1,0 +1,45 @@
+h1{color: #ccc2ce;
+	font-family: serif;
+	text-align: center;
+	
+}
+
+.tile{
+	text-align: center;
+	
+
+}
+.container{
+	background-color:beige;
+	display: grid;
+}
+
+.UserStatistics, 
+.ComputerStatistics{
+	background-color: #749ec1
+}
+.GameSection {
+	padding-top: 3%;
+}
+
+.badge {
+	margin-left: 5%
+	text-overflow: ellipsis;
+}
+.col-md-4{
+	height: 40%
+}
+.Image{
+	margin-top: 3%;
+	margin-bottom: 3%;
+	text-align: center;
+}
+.btn{
+	border: none;
+}
+.btn-primary{
+	background-color: #749ec1
+}
+.row{
+	margin: 5%;
+}
